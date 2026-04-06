@@ -142,45 +142,17 @@ Planned ideas beyond the MVP:
 
 ## Roadmap
 
-### Phase 1 — Foundation
-- Project setup
-- Architecture definition
-- Docker-based local environment
-- Initial frontend and backend scaffolding
+The project is being developed incrementally, starting with the core MVP commerce flow:
 
-### Phase 2 — Catalog
-- Product and category models
-- Public catalog APIs
-- Storefront catalog pages
+- Foundation setup
+- Catalog
+- Customer accounts
+- Cart and checkout
+- Payments and webhooks
+- Admin operations
+- Hardening and deployment
 
-### Phase 3 — Customer Accounts
-- Authentication
-- Profile management
-- Addresses
-- Customer dashboard
-
-### Phase 4 — Cart & Checkout
-- Cart management
-- Checkout flow
-- Order creation
-
-### Phase 5 — Payments
-- Stripe / Mercado Pago integration
-- Webhook handling
-- Payment confirmation flow
-
-### Phase 6 — Admin Panel
-- Product management
-- Inventory management
-- Order operations
-- Admin dashboard
-
-### Phase 7 — Hardening & Deployment
-- Transactional emails
-- Queues and jobs
-- Security improvements
-- Testing
-- Deployment
+For the detailed implementation plan, see [docs/roadmap.md](docs/roadmap.md).
 
 ---
 
