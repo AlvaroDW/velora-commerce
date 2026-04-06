@@ -24,11 +24,6 @@ The project is focused on delivering a solid foundation for real commerce workfl
 - Admin dashboard
 - Future readiness for analytics, automation, ERP/CRM integrations, and mobile apps
 
-This repository is being developed as both:
-
-- a **serious portfolio project**
-- and a **scalable commerce platform foundation**
-
 ---
 
 ## Engineering focus
@@ -208,16 +203,6 @@ velora-commerce/
 The project is currently in the architecture and initial repository preparation phase.
 
 ---
-
-## Getting Started
-
-### Prerequisites
-- Git
-- Docker
-- Docker Compose
-
-### Initial setup
-Project scaffolding and setup instructions will be added once the initial structure is ready.
 
 ## License
 
