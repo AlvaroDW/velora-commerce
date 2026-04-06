@@ -209,16 +209,6 @@ The project is currently in the architecture and initial repository preparation 
 
 ---
 
-## Getting Started
-
-### Prerequisites
-- Git
-- Docker
-- Docker Compose
-
-### Initial setup
-Project scaffolding and setup instructions will be added once the initial structure is ready.
-
 ## License
 
 This project is licensed under the MIT License.
