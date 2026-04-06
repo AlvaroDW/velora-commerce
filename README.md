@@ -24,11 +24,6 @@ The project is focused on delivering a solid foundation for real commerce workfl
 - Admin dashboard
 - Future readiness for analytics, automation, ERP/CRM integrations, and mobile apps
 
-This repository is being developed as both:
-
-- a **serious portfolio project**
-- and a **scalable commerce platform foundation**
-
 ---
 
 ## Engineering focus
